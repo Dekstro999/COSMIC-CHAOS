@@ -63,20 +63,20 @@
 
 ### Controles
 
-| Acción                | Tecla |
-| --------------------- | ----- |
-| Jugar                 | ENTER |
-| Instrucciones         | A     |
-| Información del juego | E     |
-| Historial de juegos   | H     |
-| Volver al menú        | Q     |
-| Mover hacia arriba    | W o ↑ |
-| Mover hacia abajo     | S o ↓ |
-| Mover hacia la izq.   | A o ← |
-| Mover hacia la der.   | D o → |
-| Disparar              | SPACE |
-| Pausar                | P     |
-| Salir                 | ESC   |
+| Acción                | Tecla | Control |
+| --------------------- | ----- | ------- |
+| Jugar                 | ENTER |  STAR
+| Instrucciones         | A     | - |
+| Información del juego | E     | - |
+| Historial de juegos   | H     | - |
+| Volver al menú        | Q     | - |
+| Mover hacia arriba    | TECLA  ↑ | JOY IZQ ARRIBA |
+| Mover hacia abajo     | TECLA  ↓ | JOY IZQ ABAJO |
+| Mover hacia la izq.   | TECLA ← | JOY IZQ IZQUIERDA |
+| Mover hacia la der.   | TECLA → | JOY IZQ DERECHA |
+| Disparar              | SPACE | A
+| Pausar                | P     | STAR
+| Salir                 | ESC   | - |
 
 ## Créditos
 
