@@ -65,7 +65,7 @@
 
 | Acción                | Tecla | Control |
 | --------------------- | ----- | ------- |
-| Jugar                 | ENTER |  STAR
+| Jugar                 | ENTER |  START
 | Instrucciones         | A     | - |
 | Información del juego | E     | - |
 | Historial de juegos   | H     | - |
