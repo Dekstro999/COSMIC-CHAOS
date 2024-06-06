@@ -306,10 +306,14 @@ int main()
             /* Corazon (Vida adicional) */
             if (physicAndColision(hearts, MAX_HEART, HEARTS_SPEED, HEARTS_RADIUS, &playerPosition, playRadius, &heartsTx[currentFrameExp], false))
             {
-                PlaySound(liveX);
                 if (stats.lives < 5)
                 {
+                    PlaySound(liveX);
                     stats.lives++; // Gana una vida
+                }
+                else
+                {
+                    PlaySound(liveFull);
                 }
             }
 
