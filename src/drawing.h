@@ -234,7 +234,7 @@ void drawQuestion(bool *showQuestion, short *racha, short *shield, short *munici
                     }
                     if (object == 2)
                     {
-                        (*municion) += 3;
+                        (*municion) += 5;
                     }
 
                     (*racha)++;
