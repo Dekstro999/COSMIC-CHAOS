@@ -1,14 +1,10 @@
 # <h1 align="center">COSMIC CHAOS</h1>
 
-![Captura de pantalla del juego](https://i.ibb.co/9W1YGtq/interfaz.png)
-
 ## <p align="center"><strong>Descripción</strong></p>
 
 **COSMIC CHAOS** es un videojuego espacial en 2D donde el jugador controla una nave espacial y debe esquivar y destruir meteoros para sobrevivir, mientras sube de nivel, recolecta objetos para ganar puntos, vidas adicionales y powerups respondiendo preguntas sobre el sistema solar.
 
 ## Características
-
--   **Jugabilidad Adictiva:** Sumérgete en una experiencia de juego emocionante y desafiante que pondrá a prueba tus reflejos y habilidades de esquiva.
 
 -   **Aprendizaje activo:** Alentar a los jugadores a responder correctamente las preguntas sobre el espacio para obtener powerups y ventajas en el juego, lo que refuerza la retención de conocimientos al asociar la información con resultados positivos en el juego.
 
@@ -16,9 +12,9 @@
 
 -   **Sistema de Niveles Dinamico:** A medida que avanzas en la partida y acumulas puntos, el juego se vuelve más desafiante con la aparición de más obstáculos. Cuanto más alto sea tu nivel, más intensa será la acción.
 
--   **Objetos coleccionables:** Encuentra monedas para aumentar tu puntuación y resolver preguntas relacionadas con el universo. Corazones para añadir una vida adicional.
+-   **Objetos coleccionables:** Encuentra monedas para aumentar tu puntuación, Corazones para añadir una vida adicional, y PowerUps resolviendo preguntas relacionadas con el universo..
 
--   **Historial de juegos:** Podras consultar un historial de juegos, donde se mostrara una tabla con nombre del jugador, maximo nivel alcanzado, maxima puntuacion alcanzada y la fecha correspondiente de las estadisticas.
+-   **Historial de juegos:** Podras consultar un historial de juegos, donde se mostrara una tabla con nombre del jugador, maximo nivel alcanzado, maxima puntuacion alcanzada, maximos aciertos en preguntas y la fecha correspondiente de las estadisticas.
 
 ## Información técnica
 
@@ -34,15 +30,12 @@
 -   `GIMP` : software para edición y creacion de imágenes de mapas de bits.
 -   `PhotoShop` : editor de fotografías usado principalmente para el retoque de fotografías y gráficos.
 
-**Sonido:**
-
--   ...
-
 ### **Requisitos minimos del Sistema:**
 
--   Memoria RAM: 1.5 GB
+-   Memoria RAM: 1 GB
 -   Procesador: Intel o AMD Gen 2, Dual-core
 -   Plataforma: Windows
+-   Almacenamiento: 50 MB
 
 ## Instrucciones de uso
 
@@ -57,9 +50,7 @@
 
 #### macOS y Linux:
 
-> Proximamente...
-
-**_Si recibes un aviso de virus, ejecuta el archivo ejecutable como administrador o desactiva tu antivirus._**
+1. Compile el codigo fuente.
 
 ### Controles
 
